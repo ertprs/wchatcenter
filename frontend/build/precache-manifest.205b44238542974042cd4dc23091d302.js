@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25d969eec0163d6af9c1fb5543985b23",
+    "revision": "6aecf67296b31bbecd08884c89fb5d65",
     "url": "/index.html"
   },
   {
-    "revision": "f1368cb75d4686b0b1bf",
+    "revision": "12d751c7bf35e1cf4353",
     "url": "/static/css/main.2a106a78.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.e5abd343.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1368cb75d4686b0b1bf",
-    "url": "/static/js/main.41ae93ff.chunk.js"
+    "revision": "12d751c7bf35e1cf4353",
+    "url": "/static/js/main.9b33ce8c.chunk.js"
   },
   {
     "revision": "68a9665f6992de0c4239",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ChatCenterQR.c3174d99.png"
   },
   {
-    "revision": "5897eaabc1147c50e1e0a29d3b35c639",
-    "url": "/static/media/IcogramFeatureText.5897eaab.svg"
+    "revision": "821d84009ccb21927547b1da89f928fd",
+    "url": "/static/media/IcogramFeatureText.821d8400.svg"
   },
   {
     "revision": "334b85cdb4cd1de162b98e0cbc6697d8",
