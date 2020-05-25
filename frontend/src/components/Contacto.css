@@ -1,0 +1,19 @@
+.divcontacto {
+  /*margin-top: 90px;*/
+  /*background-color: #f8f8ff;*/
+  /*background-color: #ffffff;*/
+  /*padding-top: 1%;*/
+  /*text-align: center;
+      display: grid;*/
+  /* for columns
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-areas: "left middle right";*/
+  /*
+            grid-template-columns: auto;
+            grid-template-rows: auto auto auto;
+            grid-auto-rows: minmax(min-content, max-content);
+          
+            grid-template-areas: "top" "middle" "bottom";
+          */
+  border: 3px solid blue;
+}

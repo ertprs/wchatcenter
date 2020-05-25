@@ -1,0 +1,44 @@
+.myheader {
+  position: fixed;
+  top: 0; /* Stick it to the top */
+  min-height: 70px;
+  width: 100vw;
+  display: grid;
+  grid-template-areas: "logo nav";
+  /* Cosmetics */
+  /* original background-color: #393857;*/
+  /*background-color: #1b621f;*/
+  background-color: #075e54;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.h1 {
+  margin-left: 40px;
+  color: white;
+}
+
+.Nav {
+  display: grid;
+  grid-area: nav;
+  grid-template-columns: repeat(4, auto);
+  align-items: center;
+  justify-items: center;
+  padding: 3px;
+}
+
+.buttonnav {
+  background: #25d366;
+  border-radius: 8px;
+  color: #075e54;
+  font-weight: 900;
+}
+
+.buttonnav:hover {
+  cursor: pointer;
+  background: white;
+  letter-spacing: 1px;
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+  box-shadow: 5px 40px -10px rgba(0, 0, 0, 0.57);
+  transition: all 0.4s ease 0s;
+}
