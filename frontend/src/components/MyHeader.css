@@ -27,7 +27,7 @@
 }
 
 .buttonnav {
-  background: #25d366;
+  background: white;
   border-radius: 8px;
   color: #075e54;
   font-weight: 900;
@@ -35,7 +35,7 @@
 
 .buttonnav:hover {
   cursor: pointer;
-  background: white;
+  background: gray;
   letter-spacing: 1px;
   -webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
   -moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);

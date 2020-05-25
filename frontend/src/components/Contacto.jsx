@@ -6,7 +6,7 @@ export default function Contacto() {
   return (
     <div id="contacto" className="divcontacto">
       <img
-        src={require("../assets/IcogramFeatureText.svg")}
+        src={require("../assets/Icogram_Contacto.svg")}
         className="imagecontacto"
         alt="imagecontacto"
       />
