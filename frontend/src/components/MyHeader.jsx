@@ -8,7 +8,7 @@ export default function MyHeader(props) {
     window.scroll({
       left: 0,
       top: props.chatcenterref.current.offsetTop - 90,
-      behavior: "smooth",
+      className: "smooth",
     });
   };
 
@@ -35,26 +35,12 @@ export default function MyHeader(props) {
       behavior: "smooth",
     });
   };
+
   /*
   useEffect(() => {
     console.log("hello world " + props.chatcenterref.current.offsetTop);
   }, []);*/
-  /*
-  const ButoonClick = (elementid) => {
-    var ele = document.getElementById(elementid);
-    window.scrollTo(ele.offsetLeft, ele.offsetTop - 90);
-  };*/
-  /*
-  const ChatCenterClick = () => {
-    var ele = document.getElementById("chatcenter");
-    window.scrollTo(ele.offsetLeft, ele.offsetTop - 90);
-  };
 
-  const ProductoClick = () => {
-    var ele = document.getElementById("producto");
-    window.scrollTo(ele.offsetLeft, ele.offsetTop - 90);
-  };
-*/
   return (
     <header className="myheader">
       <h1 className="h1">ChatCenter</h1>
@@ -71,19 +57,6 @@ export default function MyHeader(props) {
         <button className="buttonnav" onClick={handleScrollContacto}>
           Contacto
         </button>
-
-        {/*<button className="buttonnav" onClick={() => ButoonClick("chatcenter")}>
-          Inicio
-        </button>
-        <button className="buttonnav" onClick={() => ButoonClick("producto")}>
-          Producto
-        </button>
-        <button className="buttonnav" onClick={() => ButoonClick("demo")}>
-          Demo
-        </button>
-        <button className="buttonnav" onClick={() => ButoonClick("contacto")}>
-          Contacto
-        </button>*/}
       </nav>
     </header>
   );
