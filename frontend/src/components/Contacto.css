@@ -3,8 +3,8 @@
   /*background-color: #f8f8ff;*/
   /*background-color: #ffffff;*/
   /*padding-top: 1%;*/
-  /*text-align: center;
-      display: grid;*/
+  text-align: center;
+  /*  display: grid;*/
   /* for columns
             grid-template-columns: 1fr 1fr 1fr;
             grid-template-areas: "left middle right";*/
@@ -16,4 +16,14 @@
             grid-template-areas: "top" "middle" "bottom";
           */
   /*border: 3px solid blue;*/
+}
+@media (max-width: 900px) {
+  .imagecontacto {
+    width: 90vw;
+  }
+}
+@media (max-width: 450px) {
+  .imagecontacto {
+    width: 95vw;
+  }
 }

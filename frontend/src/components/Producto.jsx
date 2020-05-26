@@ -7,8 +7,8 @@ export default function Producto(props) {
     <div ref={props.myref} className="divproducto">
       <img
         src={require("../assets/IcogramFeatureText.svg")}
-        className="topimg"
-        alt="topimg"
+        className="imageproducto"
+        alt="imageproducto"
       />
     </div>
   );

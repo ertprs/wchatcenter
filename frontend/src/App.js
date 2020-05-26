@@ -1,5 +1,4 @@
 import React, { useRef } from "react";
-//import "./App.css";
 import MyHeader from "./components/MyHeader";
 import ChatCenter from "./components/ChatCenter";
 import Producto from "./components/Producto";
@@ -11,12 +10,6 @@ function App() {
   const productoref = useRef();
   const demoref = useRef();
   const contactoref = useRef();
-  /*
-  const chatcenterref = "useRef1()";
-  const productoref = "useRef(2)";
-  const demoref = "useRef3()";
-  const contactoref = "useRef4()";
-    */
 
   return (
     <div className="App">

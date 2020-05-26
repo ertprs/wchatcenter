@@ -37,3 +37,13 @@
 .h1color {
   color: #075e54;
 }
+@media (max-width: 900px) {
+  .imagedemo {
+    width: 90vw;
+  }
+}
+@media (max-width: 450px) {
+  .imagedemo {
+    width: 95vw;
+  }
+}
