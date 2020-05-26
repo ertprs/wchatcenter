@@ -8,7 +8,7 @@ export default function MyHeader(props) {
     window.scroll({
       left: 0,
       top: props.chatcenterref.current.offsetTop - 90,
-      className: "smooth",
+      behavior: "smooth",
     });
   };
 
