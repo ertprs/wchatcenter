@@ -1,7 +1,7 @@
 import React from "react";
 import "./Demo.css";
 
-export default function Demo() {
+export default function Demo(props) {
   const imageWhatsAppClick = () => {
     window.open(
       "https://api.whatsapp.com/send?phone=14155238886&text=join%20snake-public"
@@ -9,7 +9,7 @@ export default function Demo() {
   };
 
   return (
-    <div id="demo" className="divdemo">
+    <div ref={props.myref} className="divdemo">
       <div className="divwhatsapp">
         <br />
         <h1 className="h1color"> Realice Click sobre el icono de WhatsApp</h1>

@@ -1,9 +1,9 @@
 import React from "react";
 import "./ChatCenter.css";
 
-export default function ChatCenter() {
+export default function ChatCenter(props) {
   return (
-    <div id="chatcenter" className="divchatcenter">
+    <div ref={props.myref} className="divchatcenter">
       <img
         src={require("../assets/Icogram_WChatCenter.svg")}
         className="imagechatcenter"
