@@ -30,6 +30,19 @@
   /*border: 1px dashed orangered;*/
 }
 
+.imagewhatsappqr {
+  /*position: relative;*/
+  grid-area: right;
+  height: 150px;
+  width: 180px;
+  /*background-color: white;*/
+  /*margin-left: 20px;*/
+  /*transition: 0.1s;*/
+  /*margin-top: 3px;*/
+  /*margin-bottom: 10px;¨*/
+  /*border: 1px dashed orangered;*/
+}
+
 .imagewhatsapp:hover {
   cursor: pointer;
 }
