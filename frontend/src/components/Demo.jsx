@@ -12,9 +12,7 @@ export default function Demo(props) {
   return (
     <div ref={props.myref} className="divdemo">
       <div className="divwhatsapp">
-        <br />
         <h1 className="h1color"> Realice Click sobre el icono de WhatsApp</h1>
-        <br />
         <img
           src={require("../assets/WhatsApp_Logo_8.png")}
           className="imagewhatsapp"
@@ -27,7 +25,7 @@ export default function Demo(props) {
         <img
           src={require("../assets/ChatCenterQRGupShup.png")}
           className="imagewhatsappqr"
-          alt="imagewhatsapp"
+          alt="imagewhatsappqr"
         />
       </div>
     </div>
