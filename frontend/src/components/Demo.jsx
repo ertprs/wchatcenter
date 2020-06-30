@@ -25,7 +25,7 @@ export default function Demo(props) {
       </div>
       <div className="divwhatsappqr">
         <img
-          src={require("../assets/ChatCenterQR.png")}
+          src={require("../assets/ChatCenterQRGupShup.png")}
           className="imagewhatsapp"
           alt="imagewhatsapp"
         />
