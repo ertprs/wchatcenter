@@ -4,7 +4,8 @@ import "./Demo.css";
 export default function Demo(props) {
   const imageWhatsAppClick = () => {
     window.open(
-      "https://api.whatsapp.com/send?phone=14155238886&text=join%20snake-public"
+      //"https://api.whatsapp.com/send?phone=14155238886&text=join%20snake-public"
+      "https://signupforservices.com/whatsapp/optin/?bId=9844238c-092b-49fe-895a-432830cd64b6&bName=ChatCenter&s=URL&lang=es"
     );
   };
 
