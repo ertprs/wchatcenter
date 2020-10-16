@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.093d8f3f.chunk.css",
-    "main.js": "/static/js/main.841c4342.chunk.js",
-    "main.js.map": "/static/js/main.841c4342.chunk.js.map",
+    "main.js": "/static/js/main.e9e6bce1.chunk.js",
+    "main.js.map": "/static/js/main.e9e6bce1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fc75219d.js",
     "runtime-main.js.map": "/static/js/runtime-main.fc75219d.js.map",
     "static/js/2.e5abd343.chunk.js": "/static/js/2.e5abd343.chunk.js",
     "static/js/2.e5abd343.chunk.js.map": "/static/js/2.e5abd343.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fdc01ec50cb89855eec4f5f39eea3139.js": "/precache-manifest.fdc01ec50cb89855eec4f5f39eea3139.js",
+    "precache-manifest.6e798cc7a7c15e19e77a095f0dd59ce8.js": "/precache-manifest.6e798cc7a7c15e19e77a095f0dd59ce8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.093d8f3f.chunk.css.map": "/static/css/main.093d8f3f.chunk.css.map",
     "static/js/2.e5abd343.chunk.js.LICENSE.txt": "/static/js/2.e5abd343.chunk.js.LICENSE.txt",
     "static/media/ChatCenterQRGupShup.png": "/static/media/ChatCenterQRGupShup.84ea0c23.png",
     "static/media/IcogramFeatureText.svg": "/static/media/IcogramFeatureText.70636393.svg",
-    "static/media/Icogram_Contacto.svg": "/static/media/Icogram_Contacto.5a4a808f.svg",
+    "static/media/Icogram_Contacto.svg": "/static/media/Icogram_Contacto.fb88522c.svg",
     "static/media/Icogram_WChatCenter.svg": "/static/media/Icogram_WChatCenter.dcd282f4.svg",
     "static/media/WhatsApp_Logo_8.png": "/static/media/WhatsApp_Logo_8.c9e84820.png"
   },
@@ -22,6 +22,6 @@
     "static/js/runtime-main.fc75219d.js",
     "static/js/2.e5abd343.chunk.js",
     "static/css/main.093d8f3f.chunk.css",
-    "static/js/main.841c4342.chunk.js"
+    "static/js/main.e9e6bce1.chunk.js"
   ]
 }
