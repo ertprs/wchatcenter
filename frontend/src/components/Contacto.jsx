@@ -4,7 +4,7 @@ import "./Contacto.css";
 
 export default function Contacto(props) {
   return (
-    <div ref={props.myref} className="divcontacto">
+    <div ref={props.myref} cd c className="divcontacto">
       <img
         src={require("../assets/Icogram_Contacto.svg")}
         className="imagecontacto"
