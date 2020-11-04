@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fde412a491679f87863ddd9e54fb3226",
+    "revision": "6a6a1bfee17541fc442efa5deeffd30e",
     "url": "/index.html"
   },
   {
-    "revision": "3acb0d30344f6c6855ab",
+    "revision": "7199c8eef7ce29113634",
     "url": "/static/css/main.093d8f3f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.e5abd343.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3acb0d30344f6c6855ab",
-    "url": "/static/js/main.6c267ac1.chunk.js"
+    "revision": "7199c8eef7ce29113634",
+    "url": "/static/js/main.d8803aab.chunk.js"
   },
   {
     "revision": "68a9665f6992de0c4239",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ChatCenterQRGupShup.84ea0c23.png"
   },
   {
-    "revision": "706363937c469fc4138465b2f39e8f16",
-    "url": "/static/media/IcogramFeatureText.70636393.svg"
+    "revision": "1351e87356acf65ea2573a6b287a0187",
+    "url": "/static/media/IcogramFeatureText.1351e873.svg"
   },
   {
-    "revision": "9ffef5a60ef280c65aa86aa6b164bffb",
-    "url": "/static/media/Icogram_Contacto.9ffef5a6.svg"
+    "revision": "35e083cbcbb4c3ed5c5b29bba5b3ff63",
+    "url": "/static/media/Icogram_Contacto.35e083cb.svg"
   },
   {
-    "revision": "dcd282f406691ec29558e8dcf011b701",
-    "url": "/static/media/Icogram_WChatCenter.dcd282f4.svg"
+    "revision": "6c4b2e596a3536c7d827e56a4a02842e",
+    "url": "/static/media/Icogram_WChatCenter.6c4b2e59.svg"
   },
   {
     "revision": "c9e84820d16bb8441fec522ad32e945a",
