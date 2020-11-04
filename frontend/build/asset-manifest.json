@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.093d8f3f.chunk.css",
+    "main.css": "/static/css/main.cbf568bb.chunk.css",
     "main.js": "/static/js/main.d8803aab.chunk.js",
     "main.js.map": "/static/js/main.d8803aab.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fc75219d.js",
@@ -8,9 +8,9 @@
     "static/js/2.e5abd343.chunk.js": "/static/js/2.e5abd343.chunk.js",
     "static/js/2.e5abd343.chunk.js.map": "/static/js/2.e5abd343.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c2152e9d05ac4fbad53987b9889cfb5d.js": "/precache-manifest.c2152e9d05ac4fbad53987b9889cfb5d.js",
+    "precache-manifest.e907c57b8f156238c54c2fc68ba77b1c.js": "/precache-manifest.e907c57b8f156238c54c2fc68ba77b1c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.093d8f3f.chunk.css.map": "/static/css/main.093d8f3f.chunk.css.map",
+    "static/css/main.cbf568bb.chunk.css.map": "/static/css/main.cbf568bb.chunk.css.map",
     "static/js/2.e5abd343.chunk.js.LICENSE.txt": "/static/js/2.e5abd343.chunk.js.LICENSE.txt",
     "static/media/ChatCenterQRGupShup.png": "/static/media/ChatCenterQRGupShup.84ea0c23.png",
     "static/media/IcogramFeatureText.svg": "/static/media/IcogramFeatureText.1351e873.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.fc75219d.js",
     "static/js/2.e5abd343.chunk.js",
-    "static/css/main.093d8f3f.chunk.css",
+    "static/css/main.cbf568bb.chunk.css",
     "static/js/main.d8803aab.chunk.js"
   ]
 }
