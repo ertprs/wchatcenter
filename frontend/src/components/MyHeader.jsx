@@ -43,7 +43,7 @@ export default function MyHeader(props) {
 
   return (
     <header className="myheader">
-      <h1 className="h1">ChatCenter By AppsToGo S.A.S.</h1>
+      <h1 className="h1">AppsToGo S.A.S.</h1>
       <nav className="Nav">
         <button className="buttonnav" onClick={handleScrollChatCenter}>
           Inicio

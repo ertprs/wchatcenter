@@ -14,7 +14,7 @@ export default function Demo(props) {
       <div className="divwhatsapp">
         <h1 className="h1color"> Realice Click sobre el icono de WhatsApp</h1>
         <img
-          src={require("../assets/WhatsApp_Logo_8.png")}
+          src={require("../assets/optin.png")}
           className="imagewhatsapp"
           alt="imagewhatsapp"
           onClick={() => imageWhatsAppClick()}
@@ -23,7 +23,7 @@ export default function Demo(props) {
       </div>
       <div className="divwhatsappqr">
         <img
-          src={require("../assets/ChatCenterQRGupShup.png")}
+          src={require("../assets/optinqr.png")}
           className="imagewhatsappqr"
           alt="imagewhatsappqr"
         />
