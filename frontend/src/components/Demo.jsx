@@ -12,8 +12,9 @@ export default function Demo(props) {
   return (
     <div ref={props.myref} className="divdemo">
       <div className="divwhatsapp">
-        <h1 className="h1color"> Realice Click sobre el icono de WhatsApp</h1>
+        <h1 className="h1color"> Realice Click sobre el icono</h1>
         <img
+          background
           src={require("../assets/optin.png")}
           className="imagewhatsapp"
           alt="imagewhatsapp"
