@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.5eff8a23.chunk.css",
-    "main.js": "/static/js/main.927000de.chunk.js",
-    "main.js.map": "/static/js/main.927000de.chunk.js.map",
+    "main.js": "/static/js/main.4580d8cb.chunk.js",
+    "main.js.map": "/static/js/main.4580d8cb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fc75219d.js",
     "runtime-main.js.map": "/static/js/runtime-main.fc75219d.js.map",
     "static/js/2.e5abd343.chunk.js": "/static/js/2.e5abd343.chunk.js",
     "static/js/2.e5abd343.chunk.js.map": "/static/js/2.e5abd343.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.35115338599cdb38802561f28369114a.js": "/precache-manifest.35115338599cdb38802561f28369114a.js",
+    "precache-manifest.39f1aa702adf69eaaa840bf60039670b.js": "/precache-manifest.39f1aa702adf69eaaa840bf60039670b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5eff8a23.chunk.css.map": "/static/css/main.5eff8a23.chunk.css.map",
     "static/js/2.e5abd343.chunk.js.LICENSE.txt": "/static/js/2.e5abd343.chunk.js.LICENSE.txt",
     "static/media/IcogramFeatureText.svg": "/static/media/IcogramFeatureText.1351e873.svg",
-    "static/media/Icogram_Contacto.svg": "/static/media/Icogram_Contacto.35e083cb.svg",
-    "static/media/Icogram_WChatCenter.svg": "/static/media/Icogram_WChatCenter.6c4b2e59.svg"
+    "static/media/Icogram_Contacto.svg": "/static/media/Icogram_Contacto.6c93ba19.svg",
+    "static/media/Icogram_WChatCenter.svg": "/static/media/Icogram_WChatCenter.f58cda37.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fc75219d.js",
     "static/js/2.e5abd343.chunk.js",
     "static/css/main.5eff8a23.chunk.css",
-    "static/js/main.927000de.chunk.js"
+    "static/js/main.4580d8cb.chunk.js"
   ]
 }
